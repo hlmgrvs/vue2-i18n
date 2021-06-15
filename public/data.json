@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Garāžu vārti",
+      "imgUrl": "/img/01-full.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Industriālie vārti",
+      "imgUrl": "/img/02-full.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bīdāmie vārti",
+      "imgUrl": "/img/03-full.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Veramie vārti",
+      "imgUrl": "/img/04-full.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Ruļļu vārti",
+      "imgUrl": "/img/05-full.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Metāla kalumi",
+      "imgUrl": "/img/06-full.jpg"
+    }
+  ]
