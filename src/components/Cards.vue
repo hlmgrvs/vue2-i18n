@@ -8,8 +8,7 @@
 import Card from "./Card"
 export default {
   data: () => ({
-    cards: []
-  }),
+    cards: [] }),
   created() {
     fetch("/data.json")
       .then(response => response.json())

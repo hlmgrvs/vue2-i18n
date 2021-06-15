@@ -1,3 +1,6 @@
 {
-    "message": "Sveiki i18n !!"
-  } 
+    "nav": {
+      "home": "Galvenā",
+      "about": "Par mums"
+    }
+  }
